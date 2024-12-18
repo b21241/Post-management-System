@@ -1,4 +1,5 @@
 const express = require('express');
+
 const app = express();
 const userModel = require("./models/user");
 const postModel = require("./models/post");
